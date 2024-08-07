@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ Sura
+- 👋 Hi, I’m  Sura
 - 👀 I’m interested in protein structure prediction and docking
 - 🌱 I’m currently learning Haddock
 - 📫 sma19.bio@gmail.com
